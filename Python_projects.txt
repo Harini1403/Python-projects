@@ -1,0 +1,8 @@
+1. Process Mining :
+Repository Link: https://github.com/Harini1403/Process-mining
+
+2. Face Recognition and Attendance Management System :
+Repository Link: https://github.com/Harini1403/Attendance-and-face-recognition
+
+3. AI powered legal Document generation :
+Repository Link: https://github.com/abishe8/AI-powered-Legal-documentation-app
